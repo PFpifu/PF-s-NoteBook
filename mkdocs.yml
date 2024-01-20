@@ -33,8 +33,6 @@ theme:
   language: zh
 
   features: 
-    - navigation.instant   #- header.autohide  #自动隐藏
-    #- announce.dismiss   #呈现可标记为由用户读取的临时公告，可以包含一个用于取消当前公告的按钮
     - navigation.tracking   #地址栏中的 URL 将自动更新为在目录中突出显示的活动锚点
     - navigation.tabs   #顶级部分将呈现在上面视口标题下方的菜单层中，但在移动设备上保持原样
     - navigation.tabs.sticky    #启用粘性选项卡后，导航选项卡将锁定在标题下方，并在向下滚动时始终保持可见
@@ -48,9 +46,10 @@ theme:
     - search.share   #搜索分享按钮
     - header.autohead
     - navigation.footer
+    - navigation.instant
 
-    icon:
-      repo: fontawesome/brands/git-alt
+  icon: 
+    repo: fontawesome/brands/git-alt
 
 plugins: 
   - search
