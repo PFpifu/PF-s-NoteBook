@@ -93,5 +93,5 @@ extra_css:
   - css/more_changelog.css
 
 nav:
-  -Home: index.md
+  - Home: index.md
   
