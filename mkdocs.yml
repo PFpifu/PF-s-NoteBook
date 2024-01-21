@@ -12,7 +12,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: light green
+      primary: gray
       accent: blue
       toggle:
         icon: material/weather-sunny
@@ -27,7 +27,7 @@ theme:
         icon: material/weather-night
         name: 亮色模式
   font:
-    text: Roboto
+    text: LXGW WenKai Screen
     code: Roboto Mono
 
   language: zh
@@ -65,6 +65,7 @@ markdown_extensions:
       generic: true
   - toc:
       permalink: true # 固定标题位置为当前位置
+      toc_depth: 4
   - pymdownx.highlight: # 代码块高亮
       anchor_linenums: true
       # linenums: true # 显示行号
