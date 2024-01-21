@@ -53,8 +53,7 @@ theme:
 
 plugins: 
   - search
-  - changelog: 
-      file: changelog.yml 
+  - changelog
 
 markdown_extensions:
   - abbr
