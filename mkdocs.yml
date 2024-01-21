@@ -12,8 +12,8 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: grey
-      accent: blue
+      primary: white
+      accent: black
       toggle:
         icon: material/weather-sunny
         name: 暗色模式
