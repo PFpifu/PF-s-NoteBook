@@ -98,6 +98,7 @@ extra_css:
   - css/style.css
 
 nav:
-  - Home: - index.md
+  - Home: 
+    - index.md
     - 更新记录 : changelog.md
   
