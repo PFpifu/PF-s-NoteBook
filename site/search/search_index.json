@@ -1,1 +1,0 @@
-{"config":{"lang":["en"],"separator":"[\\s\\u200b\\u3000\\-\u3001\u3002\uff0c\uff0e\uff1f\uff01\uff1b]+","pipeline":["stemmer"]},"docs":[{"location":"","title":"Home","text":""},{"location":"#111","title":"111","text":""},{"location":"#just-a-test","title":"just a test","text":"<p>Note</p> <p>this is a note</p> Note <p>this is a test note</p>"}]}
